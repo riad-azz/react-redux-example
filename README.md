@@ -2,8 +2,6 @@
 
 A example project to showcase the usage of redux-react and redux-persist for state management in a simple todo app.
 
-try the website here : [vite-redux-todo.vercel.app](https://vite-redux-todo.vercel.app/)
-
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
